@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am a software engineer and mental health worker with a strong interest in **Computational Psychiatry** and **Health Policy**.
+I am a software engineer and mental health worker with a strong interest in **Digital Psychiatry** and **Health Policy**.
 
 - 🔭 I'm currently finishing my medical school prerequisites with the goal of becoming a **Consultation-Liaison Psychiatrist**.
 - 🌱 I want to learn more about how psychiatry, mental health science, and healthcare policies shape patient care.
